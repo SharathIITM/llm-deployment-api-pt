@@ -1,0 +1,16 @@
+{
+  "name": "llm-code-deployment-api",
+  "version": "1.0.0",
+  "description": "Minimal API for LLM Code Deployment Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
