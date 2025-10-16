@@ -154,10 +154,3 @@ If the secret key is incorrect or missing, you will receive:
 ```
 
 ---
-
-## Step 5: Fill the Google Form
-
-Once your API is deployed and tested, fill out the Google Form with:
-1.  **Your API URL:** The URL provided by Vercel (e.g., `https://<project-name>.vercel.app`).
-2.  **Your Secret Key:** The `SECRET_KEY` you configured in Vercel.
-3.  **Your GitHub Repo URL:** The URL of the GitHub repository containing your code.
