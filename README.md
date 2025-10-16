@@ -1,4 +1,4 @@
-# LLM Code Deployment Project - Minimal API
+# LLM Code Deployment Project
 
 This repository contains a minimal Node.js Express API built to satisfy the requirements of the LLM Code Deployment project.
 
